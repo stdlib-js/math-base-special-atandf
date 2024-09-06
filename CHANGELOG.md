@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-01)
+## Unreleased (2024-09-06)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b7e79ad`](https://github.com/stdlib-js/stdlib/commit/b7e79ad951c4e439ca972dc57dd88de9e38f814c) - **docs:** update function descriptions and fix style nits [(#2870)](https://github.com/stdlib-js/stdlib/pull/2870) _(by Gunj Joshi)_
 -   [`1f7fd37`](https://github.com/stdlib-js/stdlib/commit/1f7fd373c939151c685875e1e0d2f146f072ce26) - **feat:** add `math/base/special/atandf` [(#2841)](https://github.com/stdlib-js/stdlib/pull/2841) _(by Gunj Joshi)_
 
 </details>

@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Compute the [arctangent][arctangent] in degrees of a single-precision floating-point number.
+> Compute the [arctangent][arctangent] (in degrees) of a single-precision floating-point number.
 
 <section class="installation">
 
@@ -69,6 +69,7 @@ Computes the [arctangent][arctangent] (in degrees) of a single-precision floatin
 
 ```javascript
 var sqrtf = require( '@stdlib/math-base-special-sqrtf' );
+
 var v = atandf( 0.0 );
 // returns 0.0
 
