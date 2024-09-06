@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import atandf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atandf@deno/mod.js';
+import atandf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atandf@v0.0.0-deno/mod.js';
 ```
 
 #### atandf( x )
@@ -83,7 +83,7 @@ v = atandf( NaN );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import atandf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atandf@deno/mod.js';
+import atandf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atandf@v0.0.0-deno/mod.js';
 
 var x = linspace( -1.0, 1.0, 100 );
 
