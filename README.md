@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import atandf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atandf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-atandf/tags). For example,
+
+```javascript
 import atandf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atandf@v0.1.1-esm/index.mjs';
 ```
 
@@ -89,7 +94,7 @@ v = atandf( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import atandf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atandf@v0.1.1-esm/index.mjs';
+import atandf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atandf@esm/index.mjs';
 
 var x = uniform( 100, -1.0, 1.0, {
     'dtype': 'float32'
